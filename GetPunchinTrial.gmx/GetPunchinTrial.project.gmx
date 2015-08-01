@@ -15,6 +15,7 @@
     <sprite>sprites\fist_sp</sprite>
     <sprite>sprites\block_sp</sprite>
     <sprite>sprites\hole_sp</sprite>
+    <sprite>sprites\spr_shoot</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -40,6 +41,8 @@
     <object>objects\returner</object>
     <object>objects\block_ob</object>
     <object>objects\hole_ob</object>
+    <object>objects\obj_shooter</object>
+    <object>objects\obj_bull</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\TheRoom</room>
